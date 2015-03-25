@@ -44,6 +44,7 @@ Because I've been familiar with Kubernetes and the community already, I think I 
 - week 14: item 16
 - week 15~16: Handling unforeseen problems if necessary. tidying up any loose ends and do summary.
 
+If I could finish the items earlier than I scheduled, I'll contribute the planned time to the rest of items in the [CLI roadmap](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/cli-roadmap.md)
 
 ## Why Kubernetes
 I have some experience about Docker and cloud computing and I'm interested in them. Then I found  Kubernetes closely related to them and really fascinating. Besides, the community is really friendly and is a good place for me to learn some knowledge. What's more, I believe Kubernetes will serve numerous projects in the future, it's extremely cool!!!!
